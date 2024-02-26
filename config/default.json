@@ -1,0 +1,9 @@
+{
+    "Marketplace": {
+        "dev": {
+          "PORT": 8001,
+          "MONGO_URL": "mongodb+srv://alicesingca:Hwf5wuGei7hTcMru@cluster0.ueqodns.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+        }
+      }
+    }
+    
